@@ -1,0 +1,27 @@
+{
+  "name": "yiv-dev/metaLoader",
+  "description": "helps get the stream meta data for audio player",
+  "type": "media",
+  "license": "GPL-3.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/yiv-dev/metaloader"
+    }
+  ],
+  "authors": [
+    {
+      "name": "YIV",
+      "email": "yugaev@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "YIVDEV\\METALOADER\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.2.0"
+  }
+}
