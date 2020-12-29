@@ -1,5 +1,5 @@
 {
-  "name": "yiv-dev/metaLoader",
+  "name": "yiv-dev/metaloader",
   "description": "helps get the stream meta data for audio player",
   "type": "media",
   "license": "GPL-3.0",
