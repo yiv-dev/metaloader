@@ -1,8 +1,3 @@
-# metaloader
-
-## how to
-
-```
 <?php
 use YIVDEV\METALOADER\Handler;
 require 'src/Handler.php';
@@ -15,4 +10,3 @@ print_r($content);
 
 print_r("\n");
 
-```
